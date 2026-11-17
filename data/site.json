@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "name": "Shivam Pandey",
+    "role": "SOC Analyst",
+    "eyebrow": "Security Operations · Incident Response · Detection Engineering",
+    "tagline": "I take high-severity incidents from the first alert to root cause, then turn each one into a stronger detection.",
+    "status": "Open to SOC L2 / Senior SOC, MDR and Endpoint Security roles",
+    "badge": "SOC ANALYST · 24x7 · OPEN TO WORK",
+    "location": "New Delhi, India",
+    "email": "shivam501pandey@gmail.com",
+    "phone": "+91-9696528771",
+    "linkedin": "https://www.linkedin.com/in/shivampandey-securityanalyst",
+    "linkedinLabel": "shivampandey-securityanalyst",
+    "roles": [
+      "SOC Analyst",
+      "Incident Responder",
+      "Detection Engineer",
+      "EDR Investigator"
+    ]
+  },
+  "terminal": {
+    "title": "soc-console",
+    "lines": [
+      "$ whoami",
+      "SOC Analyst · 24x7 MSSP · 2+ yrs",
+      "$ respond --severity high,critical",
+      "[ok] initial response ....... 15 min",
+      "[ok] full report ............ 1 hour",
+      "$ tune --rules --exclusions",
+      "[ok] alert noise ............ -30%"
+    ]
+  },
+  "resume": {
+    "filename": "Shivam_Pandey_Resume.pdf",
+    "label": "Download Resume"
+  },
+  "stats": [
+    {
+      "value": "2+",
+      "label": "Years in 24x7 SOC work"
+    },
+    {
+      "value": "50+",
+      "label": "Alerts triaged every day"
+    },
+    {
+      "value": "15 min",
+      "label": "Initial response, High and Critical"
+    },
+    {
+      "value": "30%",
+      "label": "Alert noise cut by tuning"
+    }
+  ],
+  "about": {
+    "summary": "I have 2 years of experience in 24x7 managed SOC (MSSP) and enterprise environments, investigating escalated, high-severity incidents from triage to scoping, containment, remediation and root cause analysis (RCA). I am strongest in **EDR investigation and detection engineering**, tuning SIEM rules mapped to MITRE ATT&CK to cut false positives and response time. Most recently I worked at the Department of Telecommunications T-SOC, supporting national-level threat response for ISPs.",
+    "focus": [
+      {
+        "title": "Incident Response",
+        "text": "Scoping, containment, remediation and RCA on High and Critical incidents, with a 15-minute initial response."
+      },
+      {
+        "title": "Detection Engineering",
+        "text": "SIEM detection and correlation rules mapped to MITRE ATT&CK, tuned to cut alert noise by 30%."
+      },
+      {
+        "title": "Endpoint and EDR",
+        "text": "Process-tree analysis, host isolation and policy management across enterprise EDR platforms."
+      },
+      {
+        "title": "Threat Intelligence",
+        "text": "Weekly advisories with IOCs and mitigation steps for ISPs at national level."
+      }
+    ]
+  },
+  "workflow": {
+    "title": "How I work an incident",
+    "steps": [
+      {
+        "name": "Detect",
+        "text": "Alerts from SIEM and EDR telemetry"
+      },
+      {
+        "name": "Triage",
+        "text": "50+ alerts a day, 15-minute first response"
+      },
+      {
+        "name": "Contain",
+        "text": "Isolate hosts, stop lateral movement"
+      },
+      {
+        "name": "Remediate",
+        "text": "Fix with client IT teams"
+      },
+      {
+        "name": "Review",
+        "text": "RCA, SOPs, runbooks and rule tuning"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Young Professional (Cybersecurity, T-SOC)",
+      "org": "Department of Telecommunication UP East LSA (On Contractual Basis)",
+      "place": "Lucknow, U.P",
+      "period": "July 2026 – Oct 2026",
+      "bullets": [
+        {
+          "title": "Threat Monitoring and National-Level Response",
+          "text": "Monitor and mitigate threats to critical telecom networks in the TSOC; act on DoT Headquarters incident reports, helping ISPs validate IOCs, assess exposure, apply mitigations and report status."
+        },
+        {
+          "title": "Threat Intelligence and Advisory",
+          "text": "Analyze malicious IPs, domains and attack patterns across ISPs; publish weekly Cyber Threat Advisories with IOCs, context and mitigation steps."
+        },
+        {
+          "title": "Detection Testing and Simulation",
+          "text": "Built APT simulation labs and IR workflows to refine Wazuh SIEM detection rules."
+        },
+        {
+          "title": "ISP Security Auditing",
+          "text": "Conducted Minimum Baseline Security Standard (MBSS) audits and vulnerability assessments for ISPs, reviewing controls, compliance and network architecture."
+        }
+      ]
+    },
+    {
+      "role": "SOC Analyst",
+      "org": "SafeAeon Inc. (MSSP)",
+      "place": "Mohali, Punjab",
+      "period": "October 2024 – July 2026",
+      "bullets": [
+        {
+          "title": "Alert Triage and Monitoring",
+          "text": "Triaged and investigated 50+ alerts daily across Microsoft Sentinel, Rapid7 InsightIDR and Seceon while steadily cutting false positive escalations."
+        },
+        {
+          "title": "Incident Response",
+          "text": "Handled High and Critical incidents end to end with a 15-minute initial response and a full report within 1 hour: scoped affected hosts and accounts, built attack timelines from SIEM and EDR data, coordinated containment and remediation with client IT teams, and documented impact and mitigation."
+        },
+        {
+          "title": "EDR Administration and Endpoint Analysis",
+          "text": "Trained and worked as EDR Administrator on CrowdStrike Falcon, SentinelOne and Cylance; managed policies and configuration, analyzed process trees, isolated hosts and stopped lateral movement."
+        },
+        {
+          "title": "Detection Engineering and Rule Tuning",
+          "text": "Built and tuned SIEM detection and correlation rules mapped to MITRE ATT&CK (T1078 Valid Accounts, T1059 Command and Scripting Interpreter, T1110 Brute Force); adjusted conditions, thresholds and exclusions, reducing alert noise by 30% through false positive tuning and closing detection gaps."
+        },
+        {
+          "title": "SOC Readiness and Documentation",
+          "text": "Configured log source integrations, ran SIEM health checks and aligned detection coverage with client threat profiles and compliance needs; wrote SOPs, RCAs, runbooks and investigation notes."
+        },
+        {
+          "title": "DLP, CASB and SWG Analysis",
+          "text": "Monitored Forcepoint DLP, CASB and SWG for a large enterprise client; investigated data-exfiltration, cloud, web and policy-violation events, and escalated confirmed incidents with evidence."
+        },
+        {
+          "title": "Vulnerability Management and Reporting",
+          "text": "Prepared client vulnerability reports from scanner data (software, vendors, affected assets, patches) and compared them with the last two months to show trends, recurring exposures and remediation progress."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "SIEM and Query Languages",
+      "items": [
+        "Microsoft Sentinel (KQL)",
+        "Rapid7 InsightIDR (LEQL)",
+        "Seceon",
+        "Splunk (familiar)",
+        "QRadar (familiar)"
+      ]
+    },
+    {
+      "group": "EDR and Endpoint Security",
+      "items": [
+        "CrowdStrike Falcon",
+        "SentinelOne",
+        "Cylance",
+        "Process-tree analysis",
+        "Host isolation",
+        "Policy management"
+      ]
+    },
+    {
+      "group": "DLP, Email and Cloud Security",
+      "items": [
+        "Forcepoint DLP",
+        "Forcepoint CASB",
+        "Forcepoint SWG",
+        "Avanan",
+        "Microsoft 365 Security",
+        "Azure AD",
+        "IAM / RBAC"
+      ]
+    },
+    {
+      "group": "Detection and IR",
+      "items": [
+        "Alert Triage",
+        "Incident Response",
+        "Threat Hunting",
+        "Detection Engineering",
+        "SIEM Rule Tuning",
+        "IOC Analysis"
+      ]
+    },
+    {
+      "group": "Threat Intel and Frameworks",
+      "items": [
+        "VirusTotal",
+        "Shodan",
+        "Anyrun",
+        "AbuseIPDB",
+        "IOC Enrichment",
+        "MITRE ATT&CK",
+        "Cyber Kill Chain",
+        "NIST IR"
+      ]
+    },
+    {
+      "group": "Networking and Systems",
+      "items": [
+        "TCP/IP",
+        "DNS",
+        "Firewalls",
+        "IDS/IPS",
+        "Packet Analysis",
+        "Windows Security",
+        "Linux (Kali)",
+        "macOS (familiar)"
+      ]
+    }
+  ],
+  "casework": {
+    "intro": "Real cases from my SOC work, with client details removed.",
+    "cases": [
+      {
+        "tag": "Identity",
+        "title": "Account renamed to “admin”",
+        "text": "An account was renamed to “admin” just before an administrative task, so the activity would look routine. Reviewing the account history showed it was already compromised."
+      },
+      {
+        "tag": "Email",
+        "title": "Forwarding rule after a VPN login",
+        "text": "A compromised Office account signed in through a low-cost VPN, then created a rule forwarding mail from the Deleted Items folder to an attacker-controlled address."
+      },
+      {
+        "tag": "Endpoint",
+        "title": "One service on many hosts",
+        "text": "An attacker installed the same service on several hosts to move laterally. Process-creation events (event ID 4688) for that service across multiple hosts exposed it."
+      },
+      {
+        "tag": "Detection",
+        "title": "Cutting false positives",
+        "text": "Scheduled-task alerts fired on legitimate tasks from vendors such as Google and Microsoft, and macOS login failures came from the akd service. I added exclusions so analysts saw fewer false positives."
+      }
+    ]
+  },
+  "certifications": [
+    {
+      "name": "CrowdStrike Incident Responder",
+      "issuer": "CrowdStrike University",
+      "year": "2026"
+    },
+    {
+      "name": "ISO 27001 Lead Auditor",
+      "issuer": "Mastermind",
+      "year": "2026"
+    },
+    {
+      "name": "Certified Forcepoint DLP/CASB Administrator",
+      "issuer": "Forcepoint",
+      "year": "2026"
+    },
+    {
+      "name": "Foundations of Operationalizing MITRE ATT&CK",
+      "issuer": "AttackIQ Academy",
+      "year": "2026"
+    },
+    {
+      "name": "Certified Ethical Hacker v12 (CEH)",
+      "issuer": "EC-Council",
+      "year": "2024"
+    },
+    {
+      "name": "Microsoft SC-900",
+      "issuer": "Microsoft Learn",
+      "year": "2025"
+    },
+    {
+      "name": "Certified Social Engineering Defence Practitioner",
+      "issuer": "The SecOps Group",
+      "year": "2026"
+    },
+    {
+      "name": "Certified Network Security Practitioner (CNSP)",
+      "issuer": "The SecOps Group",
+      "year": "2023"
+    }
+  ],
+  "education": [
+    {
+      "school": "Babu Banarasi Das Institute of Technology and Management, Lucknow",
+      "degree": "Bachelor of Technology, Information Technology",
+      "period": "2020 – 2024",
+      "score": "CGPA 7.07"
+    }
+  ],
+  "contact": {
+    "heading": "Let's talk about your SOC.",
+    "text": "I am looking for SOC L2 / Senior SOC, MDR and Endpoint Security roles. The fastest way to reach me is email or LinkedIn."
+  }
+}
